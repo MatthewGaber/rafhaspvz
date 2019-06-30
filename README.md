@@ -1,8 +1,11 @@
 The website can be viewed at https://matthewgaber.github.io/rafhaspvz/
 
-Guideines
+Guidelines
 
-Hypertext Markup Language (HTML) is the language used by web browsers to diplay web pages. .html files can be edited in any text editor.
+Hypertext Markup Language (HTML) is the language used by web browsers to diplay web pages.
+
+.html files can be edited in any text editor.
+
 HTML elements are defined by tags written using angle brackets, for example
 ```
 The anchor tag links to another page	<a href="pagetwo.html>Click Here</a> where pagetwo.html is in the same directory as the document that is linking to it.

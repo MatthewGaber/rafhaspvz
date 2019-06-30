@@ -14,7 +14,7 @@ The bold tag displays text in bold <b>Bold Type</b>
 
 The body tag defines the content of the page <body>All of the contents of your Web page.</body>
 
-The line break brekas up lines of text <br>
+The line break breaks up lines of text <br>
 
 The center tag centers content <center>Center your content</center>
 
@@ -23,7 +23,7 @@ The heading tags display text in various sizes
 <h2>Heading 2 Example</h2>
 <h3>Heading 3 Example</h3>
 
-The paragraph tag defines an area of text	<p> This creates a line break and a space between lines.</p>
+The paragraph tag defines an area of text <p>This creates a line break and a space between lines.</p>
 
 The img tag defines an image <img src="./images/numtwo.jpg"> where the numtwo.jpg image is in a folder called images and that images folder is in the same directory as the html document.
 ```
